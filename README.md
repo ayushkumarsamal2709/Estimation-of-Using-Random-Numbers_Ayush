@@ -1,7 +1,7 @@
 ## Results Preview
 
 ![Pi Convergence](pi_plot.png)
-# Estimation of pi Using Random Sampling
+# Estimation of Pi Using Random Sampling
 
 ## Abstract
 
